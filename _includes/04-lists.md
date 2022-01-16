@@ -1,1 +1,3 @@
-Replace this with a list of your favorite things.
+# List of Movies
+- 300
+- Elf
